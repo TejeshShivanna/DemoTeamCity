@@ -10,7 +10,7 @@ public class HelloTeamCity {
     }
 
     public static void main(String[] args) {
-        HelloTeamCity helloTeamCity = new HelloTeamCity("HelloTeamCity");
+        HelloTeamCity helloTeamCity = new HelloTeamCity("HelloTeamCity!!");
         System.out.println(helloTeamCity.getGreetMessage());
     }
 }
